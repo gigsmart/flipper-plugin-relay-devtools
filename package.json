@@ -12,7 +12,7 @@
     "devtools"
   ],
   "pluginType": "device",
-  "supportedDevices": [{ os: "Metro", archived: false }],
+  "supportedDevices": [{ "os": "Metro", "archived": false }],
   "icon": "network",
   "title": "Relay Devtools",
   "repository": {
